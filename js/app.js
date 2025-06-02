@@ -68,7 +68,7 @@ function ejecutarComandos() {
 async function enviarComando(command) {
     const data = {
         ip: ipPublica || "192.168.100.12",
-        name: "Gabriel Hernandez",
+        name: "Mariana Mendoza",
         status: command
     };
 
